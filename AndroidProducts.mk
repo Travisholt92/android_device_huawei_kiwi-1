@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_kiwi.mk \
-    $(LOCAL_DIR)/arrow_kiwi.mk
+    $(LOCAL_DIR)/wave_kiwi.mk
